@@ -4,3 +4,4 @@ Git has a mutable indx caelled stage.
 edit1.
 edit2.
 edit3 plus.
+edit4 to origin.
