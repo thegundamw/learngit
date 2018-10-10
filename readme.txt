@@ -6,4 +6,4 @@ edit2.
 edit3 plus.
 edit4 to origin.
 edit5 for push.
-edit6 for branch. & simple.
+edit6 for branch. and simple.
