@@ -7,3 +7,4 @@ edit3 plus.
 edit4 to origin.
 edit5 for push.
 edit6 for branch. and simple.
+edit7 for feature1.
